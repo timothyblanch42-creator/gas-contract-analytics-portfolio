@@ -52,11 +52,12 @@ All project and contractor data used in this portfolio is fictional and was crea
 ![Gas Contract Analytics Executive Dashboard](gas_contract_dashboard_preview.png)
 
 ## Project Files
-
 The complete supporting files for this portfolio are available in this repository:
 
-- **Excel Analytics Workbook** — Full simulated project dataset, KPI calculations, contractor scorecards, exception reporting, and dashboard analysis.
-- **Executive Project Brief** — One-page summary of the project's business objective, methodology, KPIs, and key findings.
+- **[Excel Analytics Workbook](Timothy_Blanch_Gas_Contract_Analytics_Portfolio.xlsx)** — Full simulated project dataset, KPI calculations, contractor scorecards, exception reporting, and dashboard analysis.
+
+- **[Executive Project Brief](Timothy_Blanch_Gas_Contract_Analytics_Project_Brief.pdf)** — One-page summary of the project's business objective, methodology, KPIs, and key findings.
+
 
 ## What I Learned
 
