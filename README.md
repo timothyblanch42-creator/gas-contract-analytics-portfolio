@@ -45,3 +45,19 @@ I created this project to develop practical experience applying financial and op
 ## Data Disclaimer
 
 All project and contractor data used in this portfolio is fictional and was created solely for professional development and demonstration purposes. This project contains no National Grid or other proprietary utility information.
+
+
+## Executive Dashboard
+
+![Gas Contract Analytics Executive Dashboard](gas_contract_dashboard_preview.png)
+
+## Project Files
+
+The complete supporting files for this portfolio are available in this repository:
+
+- **Excel Analytics Workbook** — Full simulated project dataset, KPI calculations, contractor scorecards, exception reporting, and dashboard analysis.
+- **Executive Project Brief** — One-page summary of the project's business objective, methodology, KPIs, and key findings.
+
+## What I Learned
+
+This project strengthened my understanding of how financial, schedule, and contractor-performance data can be used to identify risks and support decision-making on capital projects. I focused on turning raw project information into concise management reporting rather than simply presenting data.
